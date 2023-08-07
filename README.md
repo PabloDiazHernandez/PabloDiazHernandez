@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Grupo Amper <br>
+🔭 I’m currently studyin Desarrollo de Aplicaciones Web <br>
 👯 I’m looking to collaborate on any projects<br>
 🌱 I’m currently learning Kotlin for Android<br>
 💬 Ask me if i can help you with something <br>
